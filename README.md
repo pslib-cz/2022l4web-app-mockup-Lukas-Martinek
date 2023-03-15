@@ -7,3 +7,10 @@ Ve všech katergoriích lze nastavit časové úseky (1 mešíc, 3 měsíce, pů
 * Nejposlouchanější skladby
 ## Získání dat
 [Spotify API možnosti](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-users-top-artists-and-tracks)
+### User data
+* Profilová fotka
+* User ID
+* Followers - počet sledujících
+* Nejposlouchanejší umělci
+** Nejposlouchanější žánry
+* Nejlposlouchanější skladby
