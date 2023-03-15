@@ -12,5 +12,5 @@ Ve všech katergoriích lze nastavit časové úseky (1 mešíc, 3 měsíce, pů
 * User ID
 * Followers - počet sledujících
 * Nejposlouchanejší umělci
-** Nejposlouchanější žánry
+* * Nejposlouchanější žánry
 * Nejlposlouchanější skladby
