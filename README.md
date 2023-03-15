@@ -1,2 +1,3 @@
-# 2022l4web-app-mockup-Lukas-Martinek
-2022l4web-app-mockup-Lukas-Martinek created by GitHub Classroom
+# Mobilní aplikace pro analýzu dat ze Spotify
+Mobilní aplikace bude brát data ze spotify, konkrétně nejposlouchanější umělce, skladby a žánry
+##
