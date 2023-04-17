@@ -8,6 +8,7 @@ Aplikace si bere a zpracovává různé inforamce
 * Nejposlouchanější žánry 
 * Nejposlouchanější umělci
 * Nejposlouchanější skladby
+
 Ve všech katergoriích lze nastavit časové úseky (1 mešíc, 3 měsíce, půl roku a rok).
 ## Login page
 Při přihlášení se uživatel přihlásí přes Spotify a následně ve vyskakovacím okně odklikne souhlas se zpracováním údajům z aplikace.
