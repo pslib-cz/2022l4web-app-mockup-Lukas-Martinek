@@ -28,6 +28,7 @@ Nachází se zde dva seznamy - skladby a umělci. V obou se dá nastavovat poče
 ![Track list text](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Stats_text.png)
 
 ![Track list cover](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Stats_covers.png)
+![button](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/button.png)
 ## Pie chart
 Koláčový graf, který bere 100 nejposlouchanějších písniček za poslední rok. Zobrazuje max 5 žánrů, zbytek jde do other. Lze zakliknout pro zobrazení procent.
 
