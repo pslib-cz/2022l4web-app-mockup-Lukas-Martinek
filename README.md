@@ -19,6 +19,7 @@ Při přihlášení se uživatel přihlásí přes Spotify a následně ve vyska
 Na home page se zobrazují různé statistiky
 * V první části jsou vždy nejposlouchanější písníčky a vždy top 3. Může se měnit období (poslední měsíc, týden atd.)
 * V druhé části je nejposlouchanější autor měsíce, společně s žánrem autora
+
 ![Homepage](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Home.png)
 ## Track a artist list
 Nachází se zde dva seznamy - skladby a umělci. V obou se dá nastavovat počet zobrazených itemů a období. Lze měnit mezi textovým zobrazením v seznamu a zobrazením s covery skladeb/profily umělců.
