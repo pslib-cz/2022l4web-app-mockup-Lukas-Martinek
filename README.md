@@ -31,6 +31,6 @@ Nachází se zde dva seznamy - skladby a umělci. V obou se dá nastavovat poče
 Koláčový graf, který bere 100 nejposlouchanějších písniček za poslední rok. Zobrazuje max 5 žánrů, zbytek jde do other. Lze zakliknout pro zobrazení procent.
 
 ![Pie chart](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Pie-chart.png)
-![Pie chart s %](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Pie-chart_%.png)
+![Pie chart s %](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Pie-chart_%25.png)
 ## Profil page
 Profil page obsahuje fotku, uživatelské jméno a počet followeru. Pod followery se zobrazí 3 nejvíce lajkované playlisty vytvořené autorem - pokud mají všechny stejné číslo, zobrazí se od nejnovějšího, pokud nemá uživatel playlisty vůbec nezobrazí se nic.  Dále zobrazuje shrnující informace z posledního roku - nejhranější track, autor + žánr nejhranějšího autora. Tyto informace lze exportovat a sdílet. Při exportu je vždy stejné rozpoložení - year summary z profilu + gradient barev jednoho z coverů
