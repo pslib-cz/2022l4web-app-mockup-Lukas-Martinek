@@ -25,6 +25,7 @@ Na home page se zobrazují různé statistiky
 Nachází se zde dva seznamy - skladby a umělci. V obou se dá nastavovat počet zobrazených itemů a období. Lze měnit mezi textovým zobrazením v seznamu a zobrazením s covery skladeb/profily umělců.
 
 ![Track list text](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Stats_text.png)
+
 ![Track list cover](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Stats_covers.png)
 ## Pie chart
 Koláčový graf, který bere 100 nejposlouchanějších písniček za poslední rok. Zobrazuje max 5 žánrů, zbytek jde do other. Lze zakliknout pro zobrazení procent.
