@@ -12,6 +12,7 @@ Aplikace si bere a zpracovává různé inforamce
 Ve všech katergoriích lze nastavit časové úseky (1 mešíc, 3 měsíce, půl roku a rok).
 ## Login page
 Při přihlášení se uživatel přihlásí přes Spotify a následně ve vyskakovacím okně odklikne souhlas se zpracováním údajům z aplikace.
+![loginpage](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/login.png)
 ## Home page
 Na home page se zobrazují různé statistiky
 * V první části jsou vždy nejposlouchanější písníčky a vždy top 3. Může se měnit období (poslední měsíc, týden atd.)
