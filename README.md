@@ -34,3 +34,9 @@ Koláčový graf, který bere 100 nejposlouchanějších písniček za poslední
 ![Pie chart s %](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Pie-chart_%25.png)
 ## Profil page
 Profil page obsahuje fotku, uživatelské jméno a počet followeru. Pod followery se zobrazí 3 nejvíce lajkované playlisty vytvořené autorem - pokud mají všechny stejné číslo, zobrazí se od nejnovějšího, pokud nemá uživatel playlisty vůbec nezobrazí se nic.  Dále zobrazuje shrnující informace z posledního roku - nejhranější track, autor + žánr nejhranějšího autora. Tyto informace lze exportovat a sdílet. Při exportu je vždy stejné rozpoložení - year summary z profilu + gradient barev jednoho z coverů
+
+![Profil page](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Profile.png)
+Příklady exportu
+
+![Example 1](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Share1.png)
+![Example 2](https://github.com/pslib-cz/2022l4web-app-mockup-Lukas-Martinek/blob/main/Share2.png)
